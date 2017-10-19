@@ -10,5 +10,4 @@ fi
 
 # User specific aliases and functions
 
-export VISUAL=vim
-export EDITOR="$VISUAL"
+source .profile
