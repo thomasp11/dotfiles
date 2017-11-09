@@ -95,6 +95,9 @@ set number
 " Map tab to autocomplete
 " imap <Tab> <C-P>
 
+" Use bash style autocomplete
+set wildmode=longest,list
+
 " Show hidden files
 set listchars=tab:>.,trail:.,extends:#,nbsp:.
 
