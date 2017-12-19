@@ -10,4 +10,4 @@ fi
 
 # User specific aliases and functions
 
-source .profile
+source ~/.profile
