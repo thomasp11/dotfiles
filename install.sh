@@ -26,4 +26,4 @@ vim +PlugInstall +qall
 echo "Done!"
 
 # Touch a file where I can store custom vars to keep out of git
-touch .custom_vars
+touch ~/.custom_vars
