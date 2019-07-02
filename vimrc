@@ -24,6 +24,9 @@ Plug 'airblade/vim-gitgutter'
 " Solarazied colors
 Plug 'altercation/vim-colors-solarized'
 
+" Zeek Syntax
+Plug 'zeek/vim-zeek'
+
 call plug#end()
 
 """"""""""""""""""""""""""""""""""""""""""""""
